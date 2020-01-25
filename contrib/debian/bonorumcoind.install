@@ -1,0 +1,3 @@
+usr/local/bin/bonorumcoind usr/bin
+usr/local/bin/bonorumcoin-cli usr/bin
+debian/examples/bonorumcoin.conf etc/bonorumcoin

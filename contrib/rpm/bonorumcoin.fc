@@ -1,0 +1,8 @@
+/usr/bin/bonorumcoin-cli		--	gen_context(system_u:object_r:bonorumcoin_exec_t,s0)
+/usr/sbin/bonorumcoind		--	gen_context(system_u:object_r:bonorumcoin_exec_t,s0)
+/usr/lib(64)?/bonorumcoin/bonorumcoind		--	gen_context(system_u:object_r:bonorumcoin_exec_t,s0)
+
+/etc/bonorumcoin(/.*)?		gen_context(system_u:object_r:bonorumcoin_conf_t,s0)
+/var/lib/bonorumcoin(/.*)?		gen_context(system_u:object_r:bonorumcoin_var_lib_t,s0)
+
+(/var)?/run/bonorumcoind(/.*)?   gen_context(system_u:object_r:bonorumcoin_var_run_t,s0)

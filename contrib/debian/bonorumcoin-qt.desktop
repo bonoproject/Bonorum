@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=BonorumCoin
+Comment=BonorumCoin P2P Cryptocurrency
+Comment[fr]=BonorumCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=BonorumCoin, eşten eşe kriptografik sanal para birimi
+Exec=bonorumcoin-qt %u
+Terminal=false
+Type=Application
+Icon=bonorumcoin128
+MimeType=x-scheme-handler/bonorumcoin;
+Categories=Office;Finance;
+StartupWMClass=BonorumCoin-qt

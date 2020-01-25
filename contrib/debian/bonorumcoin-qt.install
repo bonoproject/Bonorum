@@ -1,0 +1,6 @@
+usr/local/bin/bonorumcoin-qt usr/bin
+share/pixmaps/bonorumcoin32.xpm usr/share/pixmaps
+share/pixmaps/bonorumcoin16.xpm usr/share/pixmaps
+share/pixmaps/bonorumcoin128.png usr/share/pixmaps
+debian/bonorumcoin-qt.desktop usr/share/applications
+debian/bonorumcoin-qt.protocol usr/share/kde4/services/

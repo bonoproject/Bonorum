@@ -1,0 +1,11 @@
+[Protocol]
+exec=bonorumcoin-qt '%u'
+protocol=bonorumcoin
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false
